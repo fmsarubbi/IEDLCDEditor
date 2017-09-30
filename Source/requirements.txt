@@ -1,0 +1,4 @@
+pytk>=0.0.1.4
+Pillow>=4.2.1
+easygui>=0.96.3
+pyserial>=3.1.1
